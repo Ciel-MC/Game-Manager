@@ -1,0 +1,7 @@
+name: GameManager
+version: '${version}'
+main: hk.eric.gamemanager.GameManager
+api-version: 1.18
+prefix: Game
+authors: [ Eric ]
+description: The plugin that all servers should have
